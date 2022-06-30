@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#nav-bar{
+    word-spacing: 50px;   
+}
+
+
+/* styling the flutterwave logo */
+#logo-img{
+    margin-left: 100px;
+    
+}
+
+img{
+    width: 170px;
+    margin-top: 20px;
+}
+
+/*styling the center nev link*/
+.link-center{
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(8, 8, 134);  
+}
+
+.link-center1{
+    text-decoration: none;
+    background-color: rgb(233, 233, 232);
+    font-size: 17px;
+   float: right;
+    color: rgb(8, 8, 134);
+    border-radius: 8px;
+    padding: 12px 40px 12px 40px;
+    margin-top: 30px;
+    margin-right: 150px;
+}
+
+
+/*styling the section part */
+span{
+    color: rgb(255, 145, 0);
+}
+
+p{
+    font-size: 100px;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+h2{
+    margin-left: 110px;
+    color: rgb(3, 3, 104);
+}
+
+/*styling the bottom buttons */
+#bottom-button{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.b1{
+    text-decoration: none;
+    padding: 22px 30px 22px 30px;
+    background-color: rgb(1, 1, 49);
+    border-radius: 9px;
+    color: white;
+    font-family: arial;
+}
+
+.b2{
+    text-decoration: none;
+    padding: 22px 30px 22px 30px;
+    background-color: rgb(233, 233, 232);
+    border-radius: 9px;
+    color: black;
+    font-family: arial;
+    margin-left: 30px;
+    font-weight: bold;
+}
